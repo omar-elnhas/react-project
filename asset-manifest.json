@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/react-p/static/css/main.f04d8594.css",
-    "main.js": "/react-p/static/js/main.bd9b805e.js",
-    "static/js/787.28cb0dcd.chunk.js": "/react-p/static/js/787.28cb0dcd.chunk.js",
-    "static/media/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg": "/react-p/static/media/2uNW4WbgBXL25BAbXGLnLqX71Sw.4c5ba89e030a999ddc7a.jpg",
-    "static/media/fa-solid-900.ttf": "/react-p/static/media/fa-solid-900.b1a653db79258eeccc5d.ttf",
-    "static/media/fa-brands-400.ttf": "/react-p/static/media/fa-brands-400.450a5c898f0b184b968b.ttf",
-    "static/media/fa-solid-900.woff2": "/react-p/static/media/fa-solid-900.41c0f706d8ce93933771.woff2",
-    "static/media/fa-brands-400.woff2": "/react-p/static/media/fa-brands-400.3ac6859b28be946745f9.woff2",
-    "static/media/fa-regular-400.ttf": "/react-p/static/media/fa-regular-400.3cd9fb8fcec4ad0f99d4.ttf",
-    "static/media/fa-regular-400.woff2": "/react-p/static/media/fa-regular-400.1f3772178d9e5bed38a6.woff2",
-    "static/media/fa-v4compatibility.ttf": "/react-p/static/media/fa-v4compatibility.e314b618134d5be20996.ttf",
-    "static/media/fa-v4compatibility.woff2": "/react-p/static/media/fa-v4compatibility.4ee7f902d88f819e251c.woff2",
-    "index.html": "/react-p/index.html",
-    "main.f04d8594.css.map": "/react-p/static/css/main.f04d8594.css.map",
-    "main.bd9b805e.js.map": "/react-p/static/js/main.bd9b805e.js.map",
-    "787.28cb0dcd.chunk.js.map": "/react-p/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/react-project/static/css/main.f23e0981.css",
+    "main.js": "/react-project/static/js/main.1e84b234.js",
+    "static/js/787.28cb0dcd.chunk.js": "/react-project/static/js/787.28cb0dcd.chunk.js",
+    "static/media/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg": "/react-project/static/media/2uNW4WbgBXL25BAbXGLnLqX71Sw.4c5ba89e030a999ddc7a.jpg",
+    "static/media/fa-solid-900.ttf": "/react-project/static/media/fa-solid-900.b1a653db79258eeccc5d.ttf",
+    "static/media/fa-brands-400.ttf": "/react-project/static/media/fa-brands-400.450a5c898f0b184b968b.ttf",
+    "static/media/fa-solid-900.woff2": "/react-project/static/media/fa-solid-900.41c0f706d8ce93933771.woff2",
+    "static/media/fa-brands-400.woff2": "/react-project/static/media/fa-brands-400.3ac6859b28be946745f9.woff2",
+    "static/media/fa-regular-400.ttf": "/react-project/static/media/fa-regular-400.3cd9fb8fcec4ad0f99d4.ttf",
+    "static/media/fa-regular-400.woff2": "/react-project/static/media/fa-regular-400.1f3772178d9e5bed38a6.woff2",
+    "static/media/fa-v4compatibility.ttf": "/react-project/static/media/fa-v4compatibility.e314b618134d5be20996.ttf",
+    "static/media/fa-v4compatibility.woff2": "/react-project/static/media/fa-v4compatibility.4ee7f902d88f819e251c.woff2",
+    "index.html": "/react-project/index.html",
+    "main.f23e0981.css.map": "/react-project/static/css/main.f23e0981.css.map",
+    "main.1e84b234.js.map": "/react-project/static/js/main.1e84b234.js.map",
+    "787.28cb0dcd.chunk.js.map": "/react-project/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f04d8594.css",
-    "static/js/main.bd9b805e.js"
+    "static/css/main.f23e0981.css",
+    "static/js/main.1e84b234.js"
   ]
 }
